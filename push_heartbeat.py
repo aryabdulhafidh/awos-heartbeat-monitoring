@@ -21,7 +21,7 @@ logging.basicConfig(
 
 # 2. URL Push Unik dari Uptime Kuma
 # Ganti URL di bawah ini dengan Push URL yang Anda salin dari Uptime Kuma!
-UPTIME_KUMA_PUSH_URL = "http://localhost:3001/api/push/5WvlkUts7EJwsDDAB0ISMs5KOVcRcbnR?status=up&msg=OK"
+UPTIME_KUMA_PUSH_URL = "http://localhost:3001/api/push/GGBPJFtMejHLpH4MMhe76fMNGfZjzAao?status=up&msg=OK&ping="
 
 logging.info("=== Service AWOS Heartbeat Diaktifkan ===")
 
